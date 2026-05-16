@@ -1,0 +1,7 @@
+livekit-agents
+livekit-plugins-google
+livekit-plugins-deepgram
+livekit-plugins-silero
+e2b-code-interpreter
+python-dotenv
+
